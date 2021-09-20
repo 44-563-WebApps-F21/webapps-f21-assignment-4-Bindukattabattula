@@ -23,5 +23,37 @@ color: black;
 .MRS_MARCHMONT{
     color:crimson
 }
+table,th,td{
+    border: 2px dashed gray;   
+}
 
+
+
+table{
+    
+    overflow: auto;
+    width: 70%;
+   border-collapse: collapse; 
+   height: 70px;
+}
+ 
+th{
+    background-color:rgb(250, 8, 48);
+    color: lavender;
+}
+td{
+    padding: 12px;
+    text-align: left;
+    
+}
+th{
+    padding: 15px;
+    text-align: center;
+}
+tr:hover{
+background-color:rgba(207, 207, 207, 0.39);
+}
+tr:nth-child(even){
+    background-color: gray;
+}
 
