@@ -1,0 +1,27 @@
+.speech{
+ 
+    font-family: 'Times New Roman', Times, serif;font-size: 20px;
+color: black;
+}
+ 
+.stage-direction{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color:whitesmoke;
+}
+.stage-direction:hover{
+    background-color: rgb(175, 175, 101);
+}
+.name{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color:darkcyan;
+}
+
+.LADYBASILDON{
+    color:coral;
+}
+.MRS.MARCHMONT{
+    color:crimson
+}
+
+
